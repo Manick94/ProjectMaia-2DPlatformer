@@ -1,0 +1,2448 @@
+fileFormatVersion: 2
+guid: c91e738bdc553444293fc0dbb32fdb68
+timeCreated: 1505457951
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maplestory_girl_spritesheet_0
+    21300002: maplestory_girl_spritesheet_1
+    21300004: maplestory_girl_spritesheet_2
+    21300006: maplestory_girl_spritesheet_3
+    21300008: maplestory_girl_spritesheet_4
+    21300010: maplestory_girl_spritesheet_5
+    21300012: maplestory_girl_spritesheet_6
+    21300014: maplestory_girl_spritesheet_7
+    21300016: maplestory_girl_spritesheet_8
+    21300018: maplestory_girl_spritesheet_9
+    21300020: maplestory_girl_spritesheet_10
+    21300022: maplestory_girl_spritesheet_11
+    21300024: maplestory_girl_spritesheet_12
+    21300026: maplestory_girl_spritesheet_13
+    21300028: maplestory_girl_spritesheet_14
+    21300030: maplestory_girl_spritesheet_15
+    21300032: maplestory_girl_spritesheet_16
+    21300034: maplestory_girl_spritesheet_17
+    21300036: maplestory_girl_spritesheet_18
+    21300038: maplestory_girl_spritesheet_19
+    21300040: maplestory_girl_spritesheet_20
+    21300042: maplestory_girl_spritesheet_21
+    21300044: maplestory_girl_spritesheet_22
+    21300046: maplestory_girl_spritesheet_23
+    21300048: maplestory_girl_spritesheet_24
+    21300050: maplestory_girl_spritesheet_25
+    21300052: maplestory_girl_spritesheet_26
+    21300054: maplestory_girl_spritesheet_27
+    21300056: maplestory_girl_spritesheet_28
+    21300058: maplestory_girl_spritesheet_29
+    21300060: maplestory_girl_spritesheet_30
+    21300062: maplestory_girl_spritesheet_31
+    21300064: maplestory_girl_spritesheet_32
+    21300066: maplestory_girl_spritesheet_33
+    21300068: maplestory_girl_spritesheet_34
+    21300070: maplestory_girl_spritesheet_35
+    21300072: maplestory_girl_spritesheet_36
+    21300074: maplestory_girl_spritesheet_37
+    21300076: maplestory_girl_spritesheet_38
+    21300078: maplestory_girl_spritesheet_39
+    21300080: maplestory_girl_spritesheet_40
+    21300082: maplestory_girl_spritesheet_41
+    21300084: maplestory_girl_spritesheet_42
+    21300086: maplestory_girl_spritesheet_43
+    21300088: maplestory_girl_spritesheet_44
+    21300090: maplestory_girl_spritesheet_45
+    21300092: maplestory_girl_spritesheet_46
+    21300094: maplestory_girl_spritesheet_47
+    21300096: maplestory_girl_spritesheet_48
+    21300098: maplestory_girl_spritesheet_49
+    21300100: maplestory_girl_spritesheet_50
+    21300102: maplestory_girl_spritesheet_51
+    21300104: maplestory_girl_spritesheet_52
+    21300106: maplestory_girl_spritesheet_53
+    21300108: maplestory_girl_spritesheet_54
+    21300110: maplestory_girl_spritesheet_55
+    21300112: maplestory_girl_spritesheet_56
+    21300114: maplestory_girl_spritesheet_57
+    21300116: maplestory_girl_spritesheet_58
+    21300118: maplestory_girl_spritesheet_59
+    21300120: maplestory_girl_spritesheet_60
+    21300122: maplestory_girl_spritesheet_61
+    21300124: maplestory_girl_spritesheet_62
+    21300126: maplestory_girl_spritesheet_63
+    21300128: maplestory_girl_spritesheet_64
+    21300130: maplestory_girl_spritesheet_65
+    21300132: maplestory_girl_spritesheet_66
+    21300134: maplestory_girl_spritesheet_67
+    21300136: maplestory_girl_spritesheet_68
+    21300138: maplestory_girl_spritesheet_69
+    21300140: maplestory_girl_spritesheet_70
+    21300142: maplestory_girl_spritesheet_71
+    21300144: maplestory_girl_spritesheet_72
+    21300146: maplestory_girl_spritesheet_73
+    21300148: maplestory_girl_spritesheet_74
+    21300150: maplestory_girl_spritesheet_75
+    21300152: maplestory_girl_spritesheet_76
+    21300154: maplestory_girl_spritesheet_77
+    21300156: maplestory_girl_spritesheet_78
+    21300158: maplestory_girl_spritesheet_79
+    21300160: maplestory_girl_spritesheet_80
+    21300162: maplestory_girl_spritesheet_81
+    21300164: maplestory_girl_spritesheet_82
+    21300166: maplestory_girl_spritesheet_83
+    21300168: maplestory_girl_spritesheet_84
+    21300170: maplestory_girl_spritesheet_85
+    21300172: maplestory_girl_spritesheet_86
+    21300174: maplestory_girl_spritesheet_87
+    21300176: maplestory_girl_spritesheet_88
+    21300178: maplestory_girl_spritesheet_89
+    21300180: maplestory_girl_spritesheet_90
+    21300182: maplestory_girl_spritesheet_91
+    21300184: maplestory_girl_spritesheet_92
+    21300186: maplestory_girl_spritesheet_93
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 68
+        height: 69
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 954
+        width: 68
+        height: 70
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 953
+        width: 68
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 947
+        width: 64
+        height: 77
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 947
+        width: 65
+        height: 77
+      alignment: 9
+      pivot: {x: 0.68, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 954
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 952
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 954
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 953
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 954
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 975
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 975
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 975
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 951
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 871
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 871
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 871
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 872
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 872
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 872
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 872
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 872
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 871
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 872
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 872
+        width: 51
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 878
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 874
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 877
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 871
+        width: 79
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 878
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 802
+        width: 78
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 799
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 785
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 799
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 803
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 804
+        width: 89
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 798
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 805
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 804
+        width: 67
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 800
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 801
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 785
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 804
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 791
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 705
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 705
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 709
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 709
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 709
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 715
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 710
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 716
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 709
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 711
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 714
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 714
+        width: 83
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 713
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 715
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 713
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 705
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 627
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 629
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 631
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 636
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 629
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 631
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 637
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 634
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 635
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 609
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 628
+        width: 59
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 629
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 631
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 636
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 631
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 541
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 535
+        width: 50
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 541
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 538
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 533
+        width: 49
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 532
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 535
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 541
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 533
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 534
+        width: 64
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 533
+        width: 67
+        height: 72
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 534
+        width: 71
+        height: 71
+      alignment: 9
+      pivot: {x: 0.7, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 533
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 534
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 533
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: maplestory_girl_spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 457
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -511, y: 18}
+      - {x: -512, y: 17}
+      - {x: -512, y: -29}
+      - {x: -508, y: -38}
+      - {x: -500, y: -45}
+      - {x: -497, y: -44}
+      - {x: -495, y: -42}
+      - {x: -495, y: -41}
+      - {x: -495, y: -43}
+      - {x: -503, y: -56}
+      - {x: -501, y: -57}
+      - {x: -467, y: -57}
+      - {x: -460, y: -46}
+      - {x: -460, y: 13}
+      - {x: -462, y: 18}
+    - - {x: -116, y: 95}
+      - {x: -149, y: 95}
+      - {x: -154, y: 84}
+      - {x: -154, y: 41}
+      - {x: -138, y: 20}
+      - {x: -134, y: 18}
+      - {x: -102, y: 18}
+      - {x: -100, y: 25}
+      - {x: -100, y: 83}
+      - {x: -107, y: 92}
+    - - {x: -160, y: 95}
+      - {x: -187, y: 95}
+      - {x: -194, y: 94}
+      - {x: -207, y: 84}
+      - {x: -207, y: 54}
+      - {x: -196, y: 19}
+      - {x: -172, y: 19}
+      - {x: -155, y: 33}
+      - {x: -154, y: 41}
+      - {x: -154, y: 90}
+    - - {x: 30, y: 56}
+      - {x: 30, y: 19}
+      - {x: 96, y: 19}
+      - {x: 101, y: 28}
+      - {x: 101, y: 85}
+      - {x: 95, y: 93}
+      - {x: 81, y: 95}
+      - {x: 54, y: 95}
+      - {x: 41, y: 84}
+    - - {x: 185, y: 95}
+      - {x: 169, y: 75}
+      - {x: 169, y: 28}
+      - {x: 190, y: 19}
+      - {x: 238, y: 19}
+      - {x: 240, y: 36}
+      - {x: 240, y: 87}
+      - {x: 232, y: 95}
+    - - {x: 353, y: 95}
+      - {x: 315, y: 95}
+      - {x: 315, y: 42}
+      - {x: 324, y: 19}
+      - {x: 363, y: 19}
+      - {x: 365, y: 21}
+      - {x: 369, y: 50}
+      - {x: 369, y: 84}
+    - - {x: 430, y: 95}
+      - {x: 423, y: 91}
+      - {x: 423, y: 43}
+      - {x: 425, y: 36}
+      - {x: 445, y: 19}
+      - {x: 467, y: 19}
+      - {x: 477, y: 36}
+      - {x: 477, y: 83}
+      - {x: 471, y: 95}
+    - - {x: 146, y: 95}
+      - {x: 123, y: 95}
+      - {x: 107, y: 85}
+      - {x: 101, y: 56}
+      - {x: 101, y: 20}
+      - {x: 166, y: 20}
+      - {x: 169, y: 33}
+      - {x: 169, y: 80}
+      - {x: 152, y: 94}
+    - - {x: 268, y: 95}
+      - {x: 253, y: 84}
+      - {x: 240, y: 63}
+      - {x: 240, y: 40}
+      - {x: 266, y: 20}
+      - {x: 304, y: 20}
+      - {x: 315, y: 28}
+      - {x: 315, y: 82}
+      - {x: 297, y: 95}
+    - - {x: 376, y: 95}
+      - {x: 369, y: 90}
+      - {x: 369, y: 51}
+      - {x: 374, y: 38}
+      - {x: 386, y: 20}
+      - {x: 421, y: 20}
+      - {x: 423, y: 24}
+      - {x: 423, y: 81}
+      - {x: 412, y: 95}
+    - - {x: -503, y: 95}
+      - {x: -509, y: 89}
+      - {x: -512, y: 84}
+      - {x: -512, y: 29}
+      - {x: -507, y: 21}
+      - {x: -460, y: 21}
+      - {x: -460, y: 95}
+    - - {x: -349, y: 95}
+      - {x: -384, y: 95}
+      - {x: -388, y: 91}
+      - {x: -388, y: 47}
+      - {x: -386, y: 36}
+      - {x: -374, y: 32}
+      - {x: -367, y: 34}
+      - {x: -370, y: 27}
+      - {x: -369, y: 21}
+      - {x: -334, y: 21}
+      - {x: -334, y: 78}
+      - {x: -340, y: 94}
+    - - {x: -100, y: 95}
+      - {x: -100, y: 24}
+      - {x: -99, y: 21}
+      - {x: -42, y: 21}
+      - {x: -42, y: 89}
+      - {x: -62, y: 95}
+    - - {x: -232, y: 95}
+      - {x: -270, y: 95}
+      - {x: -274, y: 85}
+      - {x: -274, y: 39}
+      - {x: -260, y: 29}
+      - {x: -254, y: 34}
+      - {x: -250, y: 24}
+      - {x: -207, y: 24}
+      - {x: -207, y: 42}
+      - {x: -227, y: 93}
+    - - {x: -460, y: 95}
+      - {x: -460, y: 37}
+      - {x: -447, y: 27}
+      - {x: -388, y: 27}
+      - {x: -388, y: 53}
+      - {x: -395, y: 83}
+      - {x: -420, y: 95}
+    - - {x: -334, y: 44}
+      - {x: -328, y: 27}
+      - {x: -274, y: 27}
+      - {x: -274, y: 69}
+      - {x: -282, y: 95}
+      - {x: -330, y: 95}
+      - {x: -334, y: 93}
+    - - {x: 20, y: 85}
+      - {x: -4, y: 95}
+      - {x: -38, y: 95}
+      - {x: -42, y: 84}
+      - {x: -42, y: 46}
+      - {x: -29, y: 27}
+      - {x: -28, y: 27}
+      - {x: -21, y: 34}
+      - {x: -24, y: 38}
+      - {x: -21, y: 39}
+      - {x: -21, y: 32}
+      - {x: -17, y: 28}
+      - {x: -13, y: 27}
+      - {x: 27, y: 27}
+      - {x: 30, y: 31}
+      - {x: 30, y: 33}
+    - - {x: 336, y: 42}
+      - {x: 332, y: 38}
+      - {x: 333, y: 38}
+    - - {x: 444, y: 42}
+      - {x: 440, y: 38}
+      - {x: 441, y: 38}
+    - - {x: 388, y: 40}
+      - {x: 390, y: 43}
+      - {x: 386, y: 38}
+      - {x: 388, y: 39}
+    - - {x: 160, y: 191}
+      - {x: 143, y: 186}
+      - {x: 143, y: 108}
+      - {x: 144, y: 103}
+      - {x: 169, y: 95}
+      - {x: 199, y: 95}
+      - {x: 199, y: 191}
+    - - {x: -509, y: 191}
+      - {x: -512, y: 181}
+      - {x: -512, y: 141}
+      - {x: -500, y: 126}
+      - {x: -479, y: 113}
+      - {x: -461, y: 113}
+      - {x: -460, y: 115}
+      - {x: -460, y: 186}
+      - {x: -474, y: 191}
+    - - {x: -455, y: 191}
+      - {x: -460, y: 190}
+      - {x: -460, y: 115}
+      - {x: -456, y: 113}
+      - {x: -433, y: 113}
+      - {x: -384, y: 123}
+      - {x: -384, y: 180}
+      - {x: -390, y: 191}
+    - - {x: 206, y: 191}
+      - {x: 199, y: 187}
+      - {x: 199, y: 114}
+      - {x: 262, y: 114}
+      - {x: 262, y: 183}
+      - {x: 247, y: 191}
+    - - {x: -363, y: 191}
+      - {x: -374, y: 191}
+      - {x: -381, y: 186}
+      - {x: -384, y: 171}
+      - {x: -384, y: 139}
+      - {x: -370, y: 115}
+      - {x: -340, y: 115}
+      - {x: -330, y: 154}
+      - {x: -330, y: 173}
+      - {x: -338, y: 187}
+    - - {x: -197, y: 191}
+      - {x: -203, y: 180}
+      - {x: -203, y: 138}
+      - {x: -190, y: 123}
+      - {x: -184, y: 131}
+      - {x: -184, y: 132}
+      - {x: -184, y: 130}
+      - {x: -188, y: 122}
+      - {x: -186, y: 115}
+      - {x: -181, y: 115}
+      - {x: -175, y: 116}
+      - {x: -172, y: 121}
+      - {x: -172, y: 124}
+      - {x: -173, y: 127}
+      - {x: -172, y: 123}
+      - {x: -172, y: 118}
+      - {x: -170, y: 115}
+      - {x: -151, y: 115}
+      - {x: -149, y: 116}
+      - {x: -149, y: 191}
+    - - {x: 266, y: 191}
+      - {x: 262, y: 188}
+      - {x: 262, y: 127}
+      - {x: 269, y: 115}
+      - {x: 307, y: 115}
+      - {x: 316, y: 139}
+      - {x: 316, y: 178}
+      - {x: 301, y: 191}
+    - - {x: -322, y: 191}
+      - {x: -330, y: 184}
+      - {x: -330, y: 134}
+      - {x: -311, y: 117}
+      - {x: -274, y: 117}
+      - {x: -274, y: 186}
+      - {x: -283, y: 191}
+    - - {x: -148, y: 191}
+      - {x: -149, y: 188}
+      - {x: -149, y: 125}
+      - {x: -146, y: 117}
+      - {x: -95, y: 117}
+      - {x: -95, y: 187}
+      - {x: -105, y: 191}
+    - - {x: 316, y: 191}
+      - {x: 316, y: 138}
+      - {x: 323, y: 119}
+      - {x: 328, y: 117}
+      - {x: 372, y: 117}
+      - {x: 372, y: 182}
+      - {x: 356, y: 191}
+    - - {x: 448, y: 191}
+      - {x: 443, y: 187}
+      - {x: 443, y: 147}
+      - {x: 452, y: 117}
+      - {x: 487, y: 117}
+      - {x: 497, y: 137}
+      - {x: 497, y: 174}
+      - {x: 492, y: 191}
+    - - {x: 56, y: 134}
+      - {x: 54, y: 134}
+      - {x: 51, y: 133}
+      - {x: 48, y: 137}
+      - {x: 52, y: 134}
+      - {x: 57, y: 134}
+      - {x: 63, y: 136}
+      - {x: 63, y: 163}
+      - {x: 62, y: 178}
+      - {x: 40, y: 191}
+      - {x: 12, y: 191}
+      - {x: 3, y: 178}
+      - {x: -23, y: 153}
+      - {x: -23, y: 128}
+      - {x: 3, y: 120}
+      - {x: 60, y: 120}
+      - {x: 63, y: 121}
+      - {x: 63, y: 127}
+    - - {x: 62, y: 134}
+      - {x: 76, y: 121}
+      - {x: 143, y: 121}
+      - {x: 143, y: 166}
+      - {x: 132, y: 190}
+      - {x: 126, y: 191}
+      - {x: 86, y: 191}
+      - {x: 62, y: 160}
+    - - {x: -229, y: 186}
+      - {x: -250, y: 191}
+      - {x: -265, y: 191}
+      - {x: -274, y: 179}
+      - {x: -274, y: 143}
+      - {x: -260, y: 125}
+      - {x: -254, y: 130}
+      - {x: -255, y: 132}
+      - {x: -254, y: 133}
+      - {x: -254, y: 127}
+      - {x: -250, y: 123}
+      - {x: -246, y: 122}
+      - {x: -203, y: 122}
+      - {x: -203, y: 139}
+      - {x: -220, y: 172}
+    - - {x: 439, y: 132}
+      - {x: 427, y: 176}
+      - {x: 409, y: 191}
+      - {x: 380, y: 191}
+      - {x: 372, y: 178}
+      - {x: 372, y: 143}
+      - {x: 386, y: 125}
+      - {x: 392, y: 130}
+      - {x: 390, y: 134}
+      - {x: 392, y: 133}
+      - {x: 392, y: 127}
+      - {x: 396, y: 123}
+      - {x: 400, y: 122}
+      - {x: 440, y: 122}
+      - {x: 443, y: 126}
+      - {x: 443, y: 128}
+    - - {x: -49, y: 187}
+      - {x: -61, y: 191}
+      - {x: -93, y: 191}
+      - {x: -95, y: 189}
+      - {x: -95, y: 128}
+      - {x: -86, y: 123}
+      - {x: -23, y: 123}
+      - {x: -23, y: 135}
+      - {x: -27, y: 144}
+    - - {x: -497, y: 271}
+      - {x: -502, y: 258}
+      - {x: -512, y: 212}
+      - {x: -512, y: 196}
+      - {x: -504, y: 191}
+      - {x: -450, y: 191}
+      - {x: -446, y: 202}
+      - {x: -446, y: 266}
+      - {x: -460, y: 271}
+    - - {x: -430, y: 271}
+      - {x: -446, y: 224}
+      - {x: -446, y: 191}
+      - {x: -389, y: 191}
+      - {x: -379, y: 198}
+      - {x: -379, y: 258}
+      - {x: -382, y: 271}
+    - - {x: 432, y: 271}
+      - {x: 432, y: 191}
+      - {x: 469, y: 191}
+      - {x: 485, y: 212}
+      - {x: 485, y: 256}
+      - {x: 480, y: 271}
+    - - {x: -340, y: 271}
+      - {x: -373, y: 271}
+      - {x: -379, y: 266}
+      - {x: -379, y: 216}
+      - {x: -378, y: 211}
+      - {x: -364, y: 195}
+      - {x: -337, y: 195}
+      - {x: -332, y: 196}
+      - {x: -325, y: 217}
+      - {x: -325, y: 253}
+      - {x: -331, y: 269}
+    - - {x: -322, y: 271}
+      - {x: -325, y: 263}
+      - {x: -325, y: 213}
+      - {x: -307, y: 195}
+      - {x: -276, y: 195}
+      - {x: -271, y: 222}
+      - {x: -271, y: 259}
+      - {x: -287, y: 271}
+    - - {x: -233, y: 271}
+      - {x: -263, y: 271}
+      - {x: -269, y: 267}
+      - {x: -271, y: 250}
+      - {x: -271, y: 225}
+      - {x: -253, y: 196}
+      - {x: -249, y: 195}
+      - {x: -224, y: 195}
+      - {x: -217, y: 211}
+      - {x: -217, y: 254}
+      - {x: -223, y: 270}
+    - - {x: -17, y: 271}
+      - {x: -19, y: 270}
+      - {x: -19, y: 201}
+      - {x: -18, y: 195}
+      - {x: 33, y: 195}
+      - {x: 35, y: 212}
+      - {x: 35, y: 261}
+      - {x: 18, y: 271}
+    - - {x: -135, y: 271}
+      - {x: -147, y: 271}
+      - {x: -154, y: 266}
+      - {x: -157, y: 258}
+      - {x: -157, y: 215}
+      - {x: -139, y: 196}
+      - {x: -109, y: 196}
+      - {x: -104, y: 199}
+      - {x: -96, y: 212}
+      - {x: -96, y: 239}
+      - {x: -111, y: 267}
+    - - {x: 43, y: 271}
+      - {x: 35, y: 258}
+      - {x: 35, y: 223}
+      - {x: 49, y: 204}
+      - {x: 55, y: 210}
+      - {x: 54, y: 212}
+      - {x: 64, y: 213}
+      - {x: 50, y: 203}
+      - {x: 58, y: 197}
+      - {x: 89, y: 197}
+      - {x: 89, y: 261}
+      - {x: 85, y: 271}
+    - - {x: 239, y: 204}
+      - {x: 256, y: 199}
+      - {x: 296, y: 199}
+      - {x: 296, y: 240}
+      - {x: 291, y: 271}
+      - {x: 240, y: 271}
+      - {x: 239, y: 265}
+    - - {x: 375, y: 271}
+      - {x: 360, y: 260}
+      - {x: 356, y: 235}
+      - {x: 356, y: 203}
+      - {x: 357, y: 199}
+      - {x: 424, y: 199}
+      - {x: 432, y: 214}
+      - {x: 432, y: 244}
+      - {x: 411, y: 271}
+    - - {x: 134, y: 271}
+      - {x: 93, y: 271}
+      - {x: 89, y: 270}
+      - {x: 89, y: 214}
+      - {x: 105, y: 200}
+      - {x: 152, y: 200}
+      - {x: 152, y: 247}
+      - {x: 148, y: 258}
+    - - {x: 182, y: 271}
+      - {x: 175, y: 270}
+      - {x: 152, y: 236}
+      - {x: 152, y: 215}
+      - {x: 179, y: 200}
+      - {x: 234, y: 200}
+      - {x: 239, y: 203}
+      - {x: 239, y: 261}
+      - {x: 226, y: 271}
+    - - {x: -217, y: 271}
+      - {x: -217, y: 213}
+      - {x: -204, y: 201}
+      - {x: -157, y: 201}
+      - {x: -157, y: 263}
+      - {x: -177, y: 271}
+    - - {x: 304, y: 271}
+      - {x: 296, y: 266}
+      - {x: 296, y: 216}
+      - {x: 297, y: 211}
+      - {x: 319, y: 201}
+      - {x: 356, y: 201}
+      - {x: 356, y: 248}
+      - {x: 341, y: 271}
+    - - {x: -96, y: 218}
+      - {x: -93, y: 215}
+      - {x: -73, y: 202}
+      - {x: -19, y: 202}
+      - {x: -19, y: 246}
+      - {x: -29, y: 271}
+      - {x: -88, y: 271}
+      - {x: -96, y: 254}
+    - - {x: -250, y: 218}
+      - {x: -251, y: 219}
+      - {x: -254, y: 214}
+      - {x: -253, y: 214}
+    - - {x: -304, y: 357}
+      - {x: -344, y: 357}
+      - {x: -344, y: 297}
+      - {x: -327, y: 276}
+      - {x: -315, y: 271}
+      - {x: -297, y: 271}
+      - {x: -272, y: 289}
+      - {x: -272, y: 322}
+      - {x: -280, y: 344}
+    - - {x: 277, y: 357}
+      - {x: 272, y: 344}
+      - {x: 272, y: 299}
+      - {x: 295, y: 271}
+      - {x: 320, y: 271}
+      - {x: 322, y: 272}
+      - {x: 338, y: 304}
+      - {x: 338, y: 328}
+      - {x: 315, y: 357}
+    - - {x: 416, y: 357}
+      - {x: 406, y: 339}
+      - {x: 406, y: 279}
+      - {x: 409, y: 278}
+      - {x: 419, y: 277}
+      - {x: 466, y: 277}
+      - {x: 475, y: 290}
+      - {x: 475, y: 348}
+      - {x: 468, y: 357}
+    - - {x: -42, y: 357}
+      - {x: -46, y: 349}
+      - {x: -46, y: 302}
+      - {x: -28, y: 284}
+      - {x: 13, y: 284}
+      - {x: 13, y: 355}
+      - {x: 4, y: 357}
+    - - {x: -432, y: 299}
+      - {x: -396, y: 285}
+      - {x: -344, y: 285}
+      - {x: -344, y: 327}
+      - {x: -355, y: 357}
+      - {x: -403, y: 357}
+      - {x: -432, y: 323}
+    - - {x: -229, y: 285}
+      - {x: -221, y: 285}
+      - {x: -218, y: 288}
+      - {x: -218, y: 306}
+      - {x: -219, y: 309}
+      - {x: -218, y: 306}
+      - {x: -214, y: 302}
+      - {x: -207, y: 300}
+      - {x: -204, y: 302}
+      - {x: -204, y: 325}
+      - {x: -226, y: 357}
+      - {x: -269, y: 357}
+      - {x: -272, y: 348}
+      - {x: -272, y: 301}
+      - {x: -258, y: 291}
+      - {x: -252, y: 296}
+      - {x: -253, y: 298}
+      - {x: -250, y: 291}
+      - {x: -248, y: 285}
+      - {x: -235, y: 285}
+      - {x: -233, y: 289}
+      - {x: -233, y: 292}
+      - {x: -232, y: 288}
+    - - {x: 206, y: 300}
+      - {x: 204, y: 300}
+      - {x: 201, y: 299}
+      - {x: 198, y: 303}
+      - {x: 202, y: 300}
+      - {x: 213, y: 300}
+      - {x: 213, y: 318}
+      - {x: 203, y: 357}
+      - {x: 156, y: 357}
+      - {x: 153, y: 344}
+      - {x: 153, y: 305}
+      - {x: 167, y: 291}
+      - {x: 171, y: 295}
+      - {x: 172, y: 298}
+      - {x: 170, y: 291}
+      - {x: 170, y: 289}
+      - {x: 173, y: 286}
+      - {x: 210, y: 286}
+      - {x: 213, y: 287}
+      - {x: 213, y: 293}
+    - - {x: 257, y: 357}
+      - {x: 216, y: 357}
+      - {x: 213, y: 344}
+      - {x: 213, y: 304}
+      - {x: 226, y: 287}
+      - {x: 272, y: 287}
+      - {x: 272, y: 349}
+      - {x: 261, y: 356}
+    - - {x: -512, y: 357}
+      - {x: -512, y: 307}
+      - {x: -500, y: 292}
+      - {x: -493, y: 288}
+      - {x: -460, y: 288}
+      - {x: -434, y: 293}
+      - {x: -432, y: 301}
+      - {x: -432, y: 312}
+      - {x: -460, y: 357}
+    - - {x: -203, y: 357}
+      - {x: -204, y: 355}
+      - {x: -204, y: 304}
+      - {x: -191, y: 289}
+      - {x: -139, y: 289}
+      - {x: -139, y: 346}
+      - {x: -164, y: 357}
+    - - {x: -139, y: 324}
+      - {x: -139, y: 302}
+      - {x: -104, y: 290}
+      - {x: -46, y: 290}
+      - {x: -46, y: 315}
+      - {x: -51, y: 357}
+      - {x: -107, y: 357}
+      - {x: -112, y: 353}
+    - - {x: 89, y: 357}
+      - {x: 82, y: 352}
+      - {x: 82, y: 303}
+      - {x: 96, y: 290}
+      - {x: 153, y: 290}
+      - {x: 153, y: 316}
+      - {x: 128, y: 357}
+    - - {x: 376, y: 357}
+      - {x: 338, y: 357}
+      - {x: 338, y: 300}
+      - {x: 345, y: 290}
+      - {x: 406, y: 290}
+      - {x: 406, y: 309}
+      - {x: 400, y: 347}
+    - - {x: 51, y: 357}
+      - {x: 14, y: 357}
+      - {x: 13, y: 354}
+      - {x: 13, y: 303}
+      - {x: 26, y: 291}
+      - {x: 27, y: 291}
+      - {x: 33, y: 296}
+      - {x: 46, y: 291}
+      - {x: 82, y: 291}
+      - {x: 82, y: 327}
+      - {x: 76, y: 349}
+    - - {x: -413, y: 432}
+      - {x: -418, y: 433}
+      - {x: -461, y: 433}
+      - {x: -461, y: 374}
+      - {x: -454, y: 357}
+      - {x: -417, y: 357}
+      - {x: -414, y: 358}
+      - {x: -407, y: 380}
+      - {x: -407, y: 415}
+    - - {x: -368, y: 433}
+      - {x: -404, y: 433}
+      - {x: -407, y: 424}
+      - {x: -407, y: 374}
+      - {x: -395, y: 360}
+      - {x: -391, y: 357}
+      - {x: -358, y: 357}
+      - {x: -353, y: 378}
+      - {x: -353, y: 423}
+    - - {x: -309, y: 433}
+      - {x: -344, y: 433}
+      - {x: -353, y: 422}
+      - {x: -353, y: 389}
+      - {x: -346, y: 375}
+      - {x: -335, y: 369}
+      - {x: -338, y: 363}
+      - {x: -335, y: 357}
+      - {x: -310, y: 357}
+      - {x: -299, y: 376}
+      - {x: -299, y: 412}
+      - {x: -304, y: 432}
+    - - {x: 14, y: 433}
+      - {x: -25, y: 433}
+      - {x: -29, y: 428}
+      - {x: -29, y: 381}
+      - {x: -28, y: 373}
+      - {x: -15, y: 369}
+      - {x: -9, y: 372}
+      - {x: -10, y: 374}
+      - {x: -9, y: 373}
+      - {x: -13, y: 363}
+      - {x: -13, y: 360}
+      - {x: -10, y: 357}
+      - {x: 18, y: 357}
+      - {x: 25, y: 376}
+      - {x: 25, y: 430}
+    - - {x: 416, y: 359}
+      - {x: 422, y: 385}
+      - {x: 422, y: 423}
+      - {x: 404, y: 433}
+      - {x: 365, y: 433}
+      - {x: 363, y: 432}
+      - {x: 339, y: 402}
+      - {x: 339, y: 379}
+      - {x: 381, y: 357}
+      - {x: 396, y: 357}
+      - {x: 399, y: 362}
+      - {x: 401, y: 357}
+      - {x: 410, y: 357}
+    - - {x: -266, y: 433}
+      - {x: -292, y: 433}
+      - {x: -299, y: 427}
+      - {x: -299, y: 384}
+      - {x: -294, y: 358}
+      - {x: -251, y: 358}
+      - {x: -245, y: 385}
+      - {x: -245, y: 413}
+      - {x: -252, y: 431}
+    - - {x: -207, y: 433}
+      - {x: -241, y: 433}
+      - {x: -245, y: 423}
+      - {x: -245, y: 376}
+      - {x: -236, y: 361}
+      - {x: -230, y: 358}
+      - {x: -197, y: 358}
+      - {x: -191, y: 390}
+      - {x: -191, y: 419}
+    - - {x: -144, y: 430}
+      - {x: -152, y: 433}
+      - {x: -187, y: 433}
+      - {x: -191, y: 423}
+      - {x: -191, y: 376}
+      - {x: -182, y: 361}
+      - {x: -176, y: 358}
+      - {x: -144, y: 358}
+      - {x: -137, y: 382}
+      - {x: -137, y: 415}
+    - - {x: -133, y: 433}
+      - {x: -137, y: 423}
+      - {x: -137, y: 367}
+      - {x: -134, y: 358}
+      - {x: -83, y: 358}
+      - {x: -83, y: 422}
+      - {x: -99, y: 433}
+    - - {x: -37, y: 364}
+      - {x: -29, y: 386}
+      - {x: -29, y: 420}
+      - {x: -45, y: 433}
+      - {x: -75, y: 433}
+      - {x: -83, y: 425}
+      - {x: -83, y: 371}
+      - {x: -66, y: 358}
+      - {x: -39, y: 358}
+    - - {x: 58, y: 358}
+      - {x: 78, y: 358}
+      - {x: 80, y: 379}
+      - {x: 80, y: 423}
+      - {x: 63, y: 433}
+      - {x: 29, y: 433}
+      - {x: 25, y: 431}
+      - {x: 25, y: 382}
+      - {x: 28, y: 373}
+      - {x: 40, y: 369}
+      - {x: 46, y: 372}
+      - {x: 41, y: 367}
+      - {x: 37, y: 359}
+      - {x: 43, y: 358}
+      - {x: 53, y: 358}
+      - {x: 54, y: 361}
+      - {x: 54, y: 363}
+      - {x: 54, y: 361}
+    - - {x: 113, y: 358}
+      - {x: 133, y: 358}
+      - {x: 135, y: 379}
+      - {x: 135, y: 423}
+      - {x: 118, y: 433}
+      - {x: 84, y: 433}
+      - {x: 80, y: 431}
+      - {x: 80, y: 382}
+      - {x: 83, y: 373}
+      - {x: 95, y: 369}
+      - {x: 101, y: 372}
+      - {x: 96, y: 367}
+      - {x: 92, y: 359}
+      - {x: 98, y: 358}
+      - {x: 108, y: 358}
+      - {x: 109, y: 361}
+      - {x: 109, y: 363}
+      - {x: 109, y: 361}
+    - - {x: 227, y: 433}
+      - {x: 221, y: 429}
+      - {x: 189, y: 405}
+      - {x: 189, y: 373}
+      - {x: 198, y: 360}
+      - {x: 273, y: 360}
+      - {x: 273, y: 424}
+      - {x: 255, y: 433}
+    - - {x: -509, y: 433}
+      - {x: -512, y: 432}
+      - {x: -512, y: 376}
+      - {x: -509, y: 361}
+      - {x: -479, y: 361}
+      - {x: -461, y: 378}
+      - {x: -461, y: 421}
+      - {x: -465, y: 433}
+    - - {x: 273, y: 384}
+      - {x: 281, y: 363}
+      - {x: 339, y: 363}
+      - {x: 339, y: 375}
+      - {x: 334, y: 422}
+      - {x: 313, y: 433}
+      - {x: 274, y: 433}
+      - {x: 273, y: 432}
+    - - {x: 139, y: 433}
+      - {x: 135, y: 420}
+      - {x: 135, y: 376}
+      - {x: 144, y: 364}
+      - {x: 182, y: 364}
+      - {x: 189, y: 389}
+      - {x: 189, y: 426}
+      - {x: 173, y: 433}
+    - - {x: 459, y: 433}
+      - {x: 424, y: 433}
+      - {x: 422, y: 432}
+      - {x: 422, y: 368}
+      - {x: 423, y: 364}
+      - {x: 492, y: 364}
+      - {x: 492, y: 400}
+      - {x: 477, y: 418}
+    - - {x: -481, y: 378}
+      - {x: -482, y: 380}
+      - {x: -480, y: 377}
+      - {x: -479, y: 377}
+    - - {x: 156, y: 381}
+      - {x: 156, y: 382}
+      - {x: 154, y: 380}
+      - {x: 154, y: 377}
+    - - {x: -279, y: 512}
+      - {x: -282, y: 510}
+      - {x: -298, y: 491}
+      - {x: -298, y: 464}
+      - {x: -296, y: 455}
+      - {x: -253, y: 433}
+      - {x: -244, y: 433}
+      - {x: -230, y: 442}
+      - {x: -230, y: 502}
+      - {x: -245, y: 512}
+    - - {x: -216, y: 512}
+      - {x: -230, y: 492}
+      - {x: -230, y: 462}
+      - {x: -210, y: 436}
+      - {x: -189, y: 433}
+      - {x: -161, y: 433}
+      - {x: -161, y: 501}
+      - {x: -174, y: 512}
+    - - {x: 454, y: 458}
+      - {x: 453, y: 459}
+      - {x: 453, y: 462}
+      - {x: 455, y: 455}
+      - {x: 455, y: 454}
+      - {x: 457, y: 452}
+      - {x: 460, y: 451}
+      - {x: 474, y: 458}
+      - {x: 474, y: 506}
+      - {x: 468, y: 512}
+      - {x: 428, y: 512}
+      - {x: 421, y: 496}
+      - {x: 421, y: 471}
+      - {x: 437, y: 437}
+      - {x: 449, y: 437}
+      - {x: 451, y: 440}
+      - {x: 452, y: 443}
+      - {x: 454, y: 453}
+    - - {x: -107, y: 512}
+      - {x: -107, y: 446}
+      - {x: -104, y: 438}
+      - {x: -53, y: 438}
+      - {x: -53, y: 512}
+    - - {x: -316, y: 512}
+      - {x: -349, y: 512}
+      - {x: -370, y: 480}
+      - {x: -370, y: 451}
+      - {x: -342, y: 439}
+      - {x: -298, y: 439}
+      - {x: -298, y: 505}
+      - {x: -307, y: 509}
+    - - {x: 49, y: 454}
+      - {x: 51, y: 452}
+      - {x: 54, y: 451}
+      - {x: 68, y: 458}
+      - {x: 68, y: 506}
+      - {x: 62, y: 512}
+      - {x: 36, y: 512}
+      - {x: 23, y: 510}
+      - {x: 15, y: 503}
+      - {x: 15, y: 466}
+      - {x: 22, y: 439}
+      - {x: 42, y: 439}
+      - {x: 50, y: 446}
+      - {x: 49, y: 453}
+      - {x: 49, y: 456}
+    - - {x: -434, y: 512}
+      - {x: -442, y: 500}
+      - {x: -442, y: 453}
+      - {x: -440, y: 445}
+      - {x: -424, y: 440}
+      - {x: -370, y: 440}
+      - {x: -370, y: 508}
+      - {x: -378, y: 512}
+    - - {x: -160, y: 512}
+      - {x: -161, y: 509}
+      - {x: -161, y: 461}
+      - {x: -148, y: 446}
+      - {x: -141, y: 453}
+      - {x: -142, y: 455}
+      - {x: -132, y: 456}
+      - {x: -140, y: 446}
+      - {x: -141, y: 441}
+      - {x: -138, y: 440}
+      - {x: -107, y: 440}
+      - {x: -107, y: 509}
+      - {x: -117, y: 512}
+    - - {x: -37, y: 512}
+      - {x: -53, y: 491}
+      - {x: -53, y: 465}
+      - {x: -25, y: 440}
+      - {x: 15, y: 440}
+      - {x: 15, y: 512}
+    - - {x: 121, y: 506}
+      - {x: 113, y: 512}
+      - {x: 73, y: 512}
+      - {x: 68, y: 503}
+      - {x: 68, y: 458}
+      - {x: 82, y: 440}
+      - {x: 98, y: 440}
+      - {x: 100, y: 444}
+      - {x: 101, y: 454}
+      - {x: 107, y: 450}
+      - {x: 121, y: 458}
+    - - {x: -503, y: 512}
+      - {x: -512, y: 500}
+      - {x: -512, y: 461}
+      - {x: -490, y: 441}
+      - {x: -443, y: 441}
+      - {x: -442, y: 445}
+      - {x: -442, y: 506}
+      - {x: -455, y: 512}
+    - - {x: 143, y: 512}
+      - {x: 121, y: 485}
+      - {x: 121, y: 466}
+      - {x: 133, y: 461}
+      - {x: 188, y: 461}
+      - {x: 219, y: 464}
+      - {x: 221, y: 466}
+      - {x: 221, y: 481}
+      - {x: 197, y: 512}
+    - - {x: 243, y: 512}
+      - {x: 221, y: 485}
+      - {x: 221, y: 466}
+      - {x: 233, y: 461}
+      - {x: 288, y: 461}
+      - {x: 319, y: 464}
+      - {x: 321, y: 466}
+      - {x: 321, y: 481}
+      - {x: 297, y: 512}
+    - - {x: 343, y: 512}
+      - {x: 321, y: 485}
+      - {x: 321, y: 466}
+      - {x: 333, y: 461}
+      - {x: 388, y: 461}
+      - {x: 419, y: 464}
+      - {x: 421, y: 466}
+      - {x: 421, y: 481}
+      - {x: 397, y: 512}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
