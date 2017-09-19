@@ -19,12 +19,12 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4207582071079762}
-  - component: {fileID: 212551268168399258}
-  - component: {fileID: 95366651802208002}
+  - component: {fileID: 212019937168183354}
+  - component: {fileID: 95337770090362354}
   - component: {fileID: 50563807050663536}
   - component: {fileID: 61134467254734386}
-  - component: {fileID: 114485337427450414}
   - component: {fileID: 114187324379766064}
+  - component: {fileID: 114485337427450414}
   m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
@@ -77,20 +77,20 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.02}
+  m_Offset: {x: 0.1, y: -0.2}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.7, y: 0.5}
-    oldSize: {x: 0.68, y: 0.69}
-    newSize: {x: 0.68, y: 0.69}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 2.28125, y: 3.90625}
+    newSize: {x: 2.28125, y: 3.90625}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.3, y: 0.65}
+  m_Size: {x: 2, y: 3.5}
   m_EdgeRadius: 0
---- !u!95 &95366651802208002
+--- !u!95 &95337770090362354
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
@@ -99,7 +99,7 @@ Animator:
   m_GameObject: {fileID: 1179661283491772}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: f78523739505ee94e8a7e17b4abf738a, type: 2}
+  m_Controller: {fileID: 9100000, guid: 128841e51634e7f44ac4dd866ee32753, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -118,11 +118,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33a4de5637457fd4fb851598bb6314b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravity: -9.8
-  runSpeed: 3
-  groundFriction: 20
-  airFriction: 5
-  jumpHeight: 1.5
+  gravity: -32
+  runSpeed: 12
+  groundFriction: 28
+  airFriction: 8
+  jumpHeight: 6
 --- !u!114 &114485337427450414
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -134,11 +134,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: edf4061fb65385e41a79791708533c5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ignoreOneWayPlatformsThisFrame: 1
+  ignoreOneWayPlatformsThisFrame: 0
   _skinWidth: 0.005
   platformMask:
     serializedVersion: 2
-    m_Bits: 1
+    m_Bits: 1025
   triggerMask:
     serializedVersion: 2
     m_Bits: 512
@@ -173,7 +173,7 @@ MonoBehaviour:
   jumpThreshold: 0.07
   totalHorizontalRays: 5
   totalVerticalRays: 3
---- !u!212 &212551268168399258
+--- !u!212 &212019937168183354
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -202,15 +202,15 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -507229147
+  m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: c91e738bdc553444293fc0dbb32fdb68, type: 3}
+  m_Sprite: {fileID: 21300016, guid: 34e4fe943907a00449ace715319cf3ff, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.68, y: 0.69}
+  m_Size: {x: 2.28125, y: 3.90625}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
