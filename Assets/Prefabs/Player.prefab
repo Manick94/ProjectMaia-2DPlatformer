@@ -27,7 +27,7 @@ GameObject:
   - component: {fileID: 114485337427450414}
   m_Layer: 8
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -81,8 +81,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 2.28125, y: 3.90625}
-    newSize: {x: 2.28125, y: 3.90625}
+    oldSize: {x: 2.25, y: 3.90625}
+    newSize: {x: 0.72, y: 1.25}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
@@ -118,8 +118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33a4de5637457fd4fb851598bb6314b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gravity: -32
-  runSpeed: 12
+  gravity: -64
+  runSpeed: 16
   groundFriction: 28
   airFriction: 8
   jumpHeight: 6
@@ -205,12 +205,12 @@ SpriteRenderer:
   m_SortingLayerID: -507229147
   m_SortingLayer: 5
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300016, guid: 34e4fe943907a00449ace715319cf3ff, type: 3}
+  m_Sprite: {fileID: 21300060, guid: ceafdc7400e5a72478d269ba7d383130, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 2.28125, y: 3.90625}
+  m_Size: {x: 0.72, y: 1.25}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
