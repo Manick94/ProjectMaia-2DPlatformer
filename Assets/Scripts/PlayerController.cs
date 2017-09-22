@@ -4,16 +4,18 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-	public float gravity = -25f;
-	public float runSpeed = 8f;
-	public float groundFriction = 20f;
-	public float airFriction = 5f;
-	public float jumpHeight = 3f;
+	public float gravity;
+	public float runSpeed;
+	public float groundFriction;
+	public float airFriction;
+	public float jumpHeight;
 
 	private CharacterController2D characterController;
 	private Animator animator;
 	private RaycastHit2D lastControllerColliderHit;
 	private Vector2 velocity;
+	private bool isMeleeAttacking;
+	private bool isThrowAttacking;
 
 	private float normalizedHorizontalSpeed = 0f;
 
@@ -21,6 +23,9 @@ public class PlayerController : MonoBehaviour
 	{
 		characterController = GetComponent<CharacterController2D> ();
 		animator = GetComponent<Animator> ();
+		velocity = Vector2.zero;
+		isMeleeAttacking = false;
+		isThrowAttacking = false;
 	}
 
 	// Use this for initialization
@@ -32,13 +37,12 @@ public class PlayerController : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		if (characterController.isGrounded) {
-			velocity.y = 0;
-		} else {
-			animator.Play ("PlayerJump");
-		}
-
 		HandleInput ();
+		HandleMovement ();
+		HandleAttacks ();
+		HandleAnimations ();
+
+		Reset ();
 	}
 
 	#region Event Listeners
@@ -66,6 +70,13 @@ public class PlayerController : MonoBehaviour
 	{
 		#if UNITY_STANDALONE || UNITY_EDITOR
 
+		if (Input.GetMouseButtonDown (0)) {
+			isMeleeAttacking = true;
+			return;
+		} else if (Input.GetMouseButtonDown (1)) {
+			isThrowAttacking = true;
+		}
+
 		if (Input.GetKey (KeyCode.D)) {
 			normalizedHorizontalSpeed = 1f;
 
@@ -73,46 +84,84 @@ public class PlayerController : MonoBehaviour
 				transform.localScale = new Vector3 (-transform.localScale.x, transform.localScale.y, transform.localScale.z);
 			}
 
-			if (characterController.isGrounded) {
-				animator.Play ("PlayerRun");
-			}
 		} else if (Input.GetKey (KeyCode.A)) {
 			normalizedHorizontalSpeed = -1f;
 
 			if (transform.localScale.x > 0f) {
 				transform.localScale = new Vector3 (-transform.localScale.x, transform.localScale.y, transform.localScale.z);
 			}
-
-			if (characterController.isGrounded) {
-				animator.Play ("PlayerRun");
-			}
 		} else {
 			normalizedHorizontalSpeed = 0f;
-
-			if (characterController.isGrounded) {
-				animator.Play ("PlayerIdle");
-			}
 		}
 
-		if (Input.GetKeyDown (KeyCode.W) && characterController.isGrounded) {
+		if (Input.GetKey (KeyCode.W) && characterController.isGrounded && !animator.GetCurrentAnimatorStateInfo (0).IsName ("PlayerMeleeAttack")) {
 			velocity.y = Mathf.Sqrt (2f * jumpHeight * -gravity);
-			animator.Play ("PlayerJump");
 		}
 
-		float friction = characterController.isGrounded ? groundFriction : airFriction;
-		velocity.x = Mathf.Lerp (velocity.x, normalizedHorizontalSpeed * runSpeed, Time.deltaTime * friction);
-		velocity.y += gravity * Time.deltaTime;
+		if (Input.GetKey (KeyCode.S) && !animator.GetCurrentAnimatorStateInfo (0).IsName ("PlayerMeleeAttack")) {
+			if (characterController.isGrounded) {
+				velocity.y *= 3f;
+			}
 
-		if (characterController.isGrounded && Input.GetKey (KeyCode.S)) {
-			velocity.y *= 3f;
 			characterController.ignoreOneWayPlatformsThisFrame = true;
 		}
 
 		#elif UNITY_ANDROID || UNITY_IOS
 
 		#endif
+	}
+
+	void HandleMovement ()
+	{
+		float friction = characterController.isGrounded ? groundFriction : airFriction;
+
+		if (isMeleeAttacking || animator.GetCurrentAnimatorStateInfo (0).IsName ("PlayerMeleeAttack")) {
+			velocity.x = Mathf.Lerp (velocity.x, 0, Time.deltaTime * friction);
+		} else {
+			velocity.x = Mathf.Lerp (velocity.x, normalizedHorizontalSpeed * runSpeed, Time.deltaTime * friction);
+		}
+
+		velocity.y += gravity * Time.deltaTime;
 
 		characterController.Move (velocity * Time.deltaTime);
 		velocity = characterController.velocity;
+	}
+
+	void HandleAttacks ()
+	{
+		if (isMeleeAttacking) {
+			
+		} else if (isThrowAttacking) {
+			
+		}
+	}
+
+	void HandleAnimations ()
+	{
+		if (characterController.isGrounded) {
+			velocity.y = 0f;
+
+			if (isMeleeAttacking && !animator.GetCurrentAnimatorStateInfo (0).IsName ("PlayerMeleeAttack")) {
+				velocity.x = 0f;
+				animator.SetTrigger ("playerMeleeAttack");
+				return;
+			} else if (isThrowAttacking) {
+				return;
+			}
+
+			if (Mathf.Abs (velocity.x) > Mathf.Epsilon) {
+				animator.SetTrigger ("playerRun");
+			} else {
+				animator.SetTrigger ("playerIdle");
+			}
+		} else {
+			animator.SetTrigger ("playerJump");
+		}
+	}
+
+	void Reset ()
+	{
+		isMeleeAttacking = false;
+		isThrowAttacking = false;
 	}
 }
